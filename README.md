@@ -77,3 +77,8 @@
 </div>
 
 ---
+
+<div>
+  <h2>And cool update for Player info </h2>
+</div>
+
