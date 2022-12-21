@@ -79,6 +79,6 @@
 ---
 
 <div>
-  <h2>And cool update for Player info </h2>
+  <h2>And cool update for Player info coming soon... :hourglass:</h2>
 </div>
 
