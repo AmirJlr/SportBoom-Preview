@@ -79,6 +79,22 @@
 ---
 
 <div>
-  <h2>And cool update for Player info coming soon... :hourglass:</h2>
+  <h2>And cool update for Player info coming soon... :hourglass:(updated : )</h2>
+  <h3>Lots of player-information added to our database:</h3>
+  <ul>
+   <li>Overall Rating</li>
+   <li>Potential</li>
+   <li>Value in the Market</li>
+   <li>Wage</li>
+   <li>Position</li>
+   <li>Height</li>
+   <li>weight</li>
+   <li>Foot</li>
+   <li>Skill Moves</li>
+   <li>Contract</li>
+   <li>Nationality</li>
+   <li>...</li>
+  </ul>
+  
 </div>
 
