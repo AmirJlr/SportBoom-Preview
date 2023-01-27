@@ -82,6 +82,7 @@
   <h2>And cool update for Player info coming soon... :hourglass:(updated : )</h2>
   <h3>Lots of player-information added to our database:</h3>
   <ul>
+   <li>Photo</li>
    <li>Overall Rating</li>
    <li>Potential</li>
    <li>Value in the Market</li>
