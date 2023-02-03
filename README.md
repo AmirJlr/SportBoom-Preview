@@ -96,6 +96,6 @@
    <li>Nationality</li>
    <li>...</li>
   </ul>
-  <img src='sportboom/8-player info.png' width='75%'/>
+  <img src='sportboom/8-player info.png' width='100%'/>
 </div>
 
